@@ -1,4 +1,4 @@
-# 👮‍♂️ Azure Naming Convention Initiative 🚨
+# Cobweb - Azure Naming Convention Initiative
 
 This repository holds a bunch of bicep templates that creates and assigns Azure polices to audit or enforce a specific naming convention. 
 
